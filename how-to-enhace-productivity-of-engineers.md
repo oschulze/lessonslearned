@@ -8,6 +8,7 @@ Engineers need to be focused for long hours to be productive.
 -Talking vs. Coding: it is important that the manager of the team have a daily communication with the engineers. However, it is important
 to manage the time spent on discussions or brainstorming and leave enough time for actual coding. 
 ![](https://cdn-images-1.medium.com/max/800/1*pyqcGiifaMV8HxkDQyAgtg.jpeg)
+
 -Co-location: this always helps, because engineers that work on teams can communicate more effectively. However, it is possible to have 
 remote teams working productively. One potential probelms with remote teams is having different time-zones, which can become a problem if
 you have more than 5-6 hours of differences. India is a very common location for hiring, and you cannot have overlap in the hours between 
